@@ -1,0 +1,25 @@
+#logo
+{
+    width: 100px;
+    border-radius: 100px;
+    height: 100px;
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    color: brown;
+}
+#header_div{
+    background-image: linear-gradient(purple, green);
+}
+#voice_recieved
+{
+    width: 300px;
+}
+body{
+    background-image: url("backgroundforbody.jpeg");
+    background-position: center;
+}
+h2{
+    color: cornsilk;
+    font-family: fantasy;
+}
